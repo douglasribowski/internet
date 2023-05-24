@@ -1,0 +1,36 @@
+    h1{border-style:none;
+    border-width:thin;
+    color:blue
+    }
+h2{border-style:dotted;
+    border-width:medium;
+    color:brown
+}
+h3{border-style:double;
+    border-width:thick
+    color:0dvw
+}
+h4{border-style:solid;
+    border-width:thin;
+    color:aqua
+}
+h5{border-style:groove;
+    border-width:thin;
+    color:blueviolet
+}
+h6{border-style:ridge;
+    border-width:thick;
+    color:brown
+}
+h7{border-style:inset;
+    border-width:thick;
+    color:aquamarine
+}
+h8{border-style:outset;
+    border-width:medium;
+    color:blue
+}
+<h9>{border-style:dashed;
+      border-width:thin;
+    color:aqua
+}
